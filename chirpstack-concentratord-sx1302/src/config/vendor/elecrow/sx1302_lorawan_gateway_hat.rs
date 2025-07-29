@@ -1,4 +1,4 @@
-use anyhow::{anyhow, Result};
+use anyhow::Result;
 use libconcentratord::{gnss, region};
 use libloragw_sx1302::hal;
 
